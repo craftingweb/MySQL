@@ -1,5 +1,5 @@
 -- Vitaliy Prymak Lab 1
-
+-- Graded 100
 
 CREATE DATABASE airtraffic;
 USE airtraffic;
